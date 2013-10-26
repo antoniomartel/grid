@@ -1,0 +1,11 @@
+Este es un ejemplo de creación de componentes con Delphi. Es un TStringGrid modificado para añadirle las siguientes características:
+
+- Modo Color (Por columna/fila). Diferente color para filas o columnas impares
+- Alineación: Alineación a la derecha para la columna ‘Price’
+- Hint mostrando texto completo en las celdas en las que está sólo parcialmente mostrado.
+- Puntos suspensivos indicando que el texto está parcialmente mostrado en esa celda.
+- Columna ‘Tick it’ (Doble clic, marca/desmarca)
+- Ficheros Txt pueden ser arrastrados y soltados en el grid desde el Windows explorer (puede encontrar dos ficheros txt de ejemplo en este directorio)
+- Pequeños ficheros bmp pueden ser también arrastrados y soltados sobre el grid (Puede encontrar dos ficheros de ejemplo one.bmp y zero.bmp)
+- Botón con led y eventos OnExit/OnEnter
+

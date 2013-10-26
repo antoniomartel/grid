@@ -1,0 +1,4 @@
+Breaded Hake=2.78
+CornFlakes=1.94
+Vanilla Ice Cream=2.62
+Spaghetti=1.07
